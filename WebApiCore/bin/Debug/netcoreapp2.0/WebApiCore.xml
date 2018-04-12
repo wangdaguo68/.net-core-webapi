@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiCore</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiCore.Controllers.UserController.Get(System.String)">
+            <summary>
+            获取用户
+            </summary>
+            <param name="archiveType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiCore.Domain.Concrete.UserRepository.#ctor(WebApiCore.Domain.TestContext)">
+            <summary>
+            构造函数
+            sunyue
+            </summary>
+            <param name="context">Context.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.deps.json
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.json
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.dev.json
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.dll
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.pdb
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csprojResolveAssemblyReference.cache
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csproj.CoreCompileInputs.cache
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfoInputs.cache
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfo.cs
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.dll
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.pdb
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.xml
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\Models.dll
+D:\开发测试\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\Models.pdb
+D:\开发测试\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csproj.CopyComplete
