@@ -1,1 +1,5 @@
 /.vs
+/Models/bin
+obj
+/WebApiCore/obj
+/WebApiCore/bin
