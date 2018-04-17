@@ -1,4 +1,5 @@
 ﻿using Models;
+using System.Collections.Generic;
 using System.Linq;
 using WebApiCore.Domain.Interface;
 
@@ -16,9 +17,15 @@ namespace WebApiCore.Domain.Concrete
         {
             _context = context;
         }
-        public User Find(string name)
+        public List<User> Find()
         {
-            return _context.Users.FirstOrDefault(obj => obj.name == name);
+            return _context.Users.ToList();
+        }
+
+        public void Insert(User user)
+        {
+            _context.Users.Add(user);
+            _context.SaveChanges();
         }
     }
 }

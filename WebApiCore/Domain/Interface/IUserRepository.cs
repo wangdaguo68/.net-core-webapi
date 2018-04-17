@@ -1,9 +1,11 @@
 ﻿using Models;
+using System.Collections.Generic;
 
 namespace WebApiCore.Domain.Interface
 {
     public interface IUserRepository
     {
-        User Find(string name);
+        List<User> Find();
+        void Insert(User user);
     }
 }
